@@ -17,8 +17,7 @@ FOLLOW THIS PROCEDURE FOR THE FIRST OPTION (USE THE SAME DATASET ON WHICH THE PR
 
    You should see something like this:
    
-   ![drive](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/c368137c-a08d-4bbb-af89-9767b56da6c0)
-
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/53a872a4-b588-4e51-80fe-ec9d203e88d0)
  
 3) Open the Google Colab Notebook and run each cell code (except the one who has this signature as comment # DON'T COMPILE ...)
   
