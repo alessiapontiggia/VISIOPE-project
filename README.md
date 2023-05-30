@@ -2,6 +2,7 @@
 
 Since the dataset used is self-generated and randomic, you can:
 
+0) OPEN THE COLAB AND VISUALIZE IT (WITHOUT RUNNING)
 1) USE THE SAME DATASET ON WHICH THE PROJECT HAS BEEN RUN
 2) GENERATE ANOTHER DATASET AND TRY IT BY YOUR OWN
 
@@ -11,13 +12,15 @@ FOLLOW THIS PROCEDURE FOR THE FIRST OPTION (USE THE SAME DATASET ON WHICH THE PR
    
    You should see this:
    
-   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/02d24cff-acf6-464b-b67b-44ec2f83da7a)
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/53a872a4-b588-4e51-80fe-ec9d203e88d0)
+  
 
 2) Copy this folder VISIOPE and paste it to your own Google Drive (under "MyDrive" or "Il mio Drive")
 
    You should see something like this:
-   
-   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/53a872a4-b588-4e51-80fe-ec9d203e88d0)
+  
+   ![drive](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/dc01063c-cbeb-43cf-9c12-bf3cc317f669)
+  
  
 3) Open the Google Colab Notebook and run each cell code (except the one who has this signature as comment # DON'T COMPILE ...)
   
