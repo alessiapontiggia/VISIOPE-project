@@ -22,7 +22,9 @@ FOLLOW THIS PROCEDURE FOR THE FIRST OPTION (USE THE SAME DATASET ON WHICH THE PR
    ![drive](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/dc01063c-cbeb-43cf-9c12-bf3cc317f669)
   
  
-3) Open the Google Colab Notebook and run each cell code (except the one who has this signature as comment # DON'T COMPILE ...)
+3) Open the Google Colab Notebook and run each cell code 
+   
+   (except the one who has this signature as comment #DON'T COMPILE ...). These are reported below:
   
   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/9c60580d-5027-4339-901b-4f99ce614afa)
 
@@ -38,8 +40,8 @@ FOLLOW THIS PROCEDURE FOR THE FIRST OPTION (USE THE SAME DATASET ON WHICH THE PR
 FOLLOW THIS PROCEDURE FOR THE SECOND OPTION (GENERATE ANOTHER DATASET AND TRY IT BY YOUR OWN)
 
 1) Open your Google Drive
-2) Under your MyDrive or "Il Mio Drive" create this folders:
-    - VISIOPE
+2) Under your MyDrive or "Il Mio Drive" create these folders:
+    VISIOPE
       - dataset
       - test 
         - Goal
@@ -64,6 +66,6 @@ FOLLOW THIS PROCEDURE FOR THE SECOND OPTION (GENERATE ANOTHER DATASET AND TRY IT
    ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/df8585b9-779a-41ea-a9f2-77724aaaad4c)
 
 3) Open the Google Colab Notebook and run each cell
-4) To complete the generation of the dataset and the test operations wait some minuted in order to store everything in the right folders
+4) To complete the generation of the dataset and the test operations wait some minutes in order to store everything in the right folders
 
 
