@@ -2,7 +2,7 @@
 
 Since the dataset used is self-generated and randomic, you can:
 
-0) OPEN THE COLAB AND VISUALIZE IT (WITHOUT RUNNING)
+0) OPEN THE COLAB AND VISUALIZE IT (WITHOUT RUNNING) https://colab.research.google.com/drive/1SDLujLCuq_whJfVknkYvwAEEnLeMcRn9?usp=sharing
 1) USE THE SAME DATASET ON WHICH THE PROJECT HAS BEEN RUN
 2) GENERATE ANOTHER DATASET AND TRY IT BY YOUR OWN
 
@@ -22,7 +22,7 @@ Since the dataset used is self-generated and randomic, you can:
    ![drive](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/dc01063c-cbeb-43cf-9c12-bf3cc317f669)
   
  
-3) Open the Google Colab Notebook and run each cell code 
+3) Open the Google Colab Notebook (https://colab.research.google.com/drive/1SDLujLCuq_whJfVknkYvwAEEnLeMcRn9?usp=sharing) and run each cell code 
    
    (except the one who has this signature as comment #DON'T COMPILE ...). These are reported below:
   
@@ -66,7 +66,7 @@ Since the dataset used is self-generated and randomic, you can:
 
    ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/df8585b9-779a-41ea-a9f2-77724aaaad4c)
 
-3) Open the Google Colab Notebook and run each cell
+3) Open the Google Colab Notebook (https://colab.research.google.com/drive/1SDLujLCuq_whJfVknkYvwAEEnLeMcRn9?usp=sharing) and run each cell
 4) To complete each generation of the dataset and the test operations wait some minutes in order to store everything in the right folders before running other cells
 
 
