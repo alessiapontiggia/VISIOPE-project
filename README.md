@@ -67,6 +67,6 @@ FOLLOW THIS PROCEDURE FOR THE SECOND OPTION (GENERATE ANOTHER DATASET AND TRY IT
    ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/df8585b9-779a-41ea-a9f2-77724aaaad4c)
 
 3) Open the Google Colab Notebook and run each cell
-4) To complete the generation of the dataset and the test operations wait some minutes in order to store everything in the right folders
+4) To complete each generation of the dataset and the test operations wait some minutes in order to store everything in the right folders before running other cells
 
 
