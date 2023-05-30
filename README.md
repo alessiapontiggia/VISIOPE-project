@@ -41,6 +41,7 @@ FOLLOW THIS PROCEDURE FOR THE SECOND OPTION (GENERATE ANOTHER DATASET AND TRY IT
 
 1) Open your Google Drive
 2) Under your MyDrive or "Il Mio Drive" create these folders:
+    
     VISIOPE
       - dataset
       - test 
