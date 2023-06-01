@@ -12,8 +12,8 @@ Since the dataset used is self-generated and randomic, you can:
    
    You should see this:
    
-   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/53a872a4-b588-4e51-80fe-ec9d203e88d0)
-  
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/14373807-1082-4fcc-adee-43107c955ae4)
+
 
 2) Copy this folder VISIOPE and paste it to your own Google Drive (under "MyDrive" or "Il mio Drive")
 
@@ -26,15 +26,14 @@ Since the dataset used is self-generated and randomic, you can:
    
    (except the one who has this signature as comment #DON'T COMPILE ...). These are reported below:
   
-  ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/9c60580d-5027-4339-901b-4f99ce614afa)
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/7a152fc9-e798-49d5-a836-badcd466edc1)
 
-  ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/065c9ce9-3c59-4802-8ccb-b9576ee0d3fd)
-  
-  ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/de425198-c3b1-4112-82dc-0ddc276875f8)
-  
-  ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/32568cb4-c418-417a-af72-e5f74d6e57f5)
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/ce1c3283-d57a-46ad-b1b6-82dad0ce7bc4)
 
-   
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/1b71eef5-44d3-49c2-a6a9-fe48336d86b0)
+
+   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/c6a8b3ef-e02c-4ab7-a61e-981139a9a60c)
+
       
   
 **FOLLOW THIS PROCEDURE FOR THE SECOND OPTION (GENERATE ANOTHER DATASET AND TRY IT BY YOUR OWN)**
@@ -47,18 +46,14 @@ Since the dataset used is self-generated and randomic, you can:
       - test 
         - Goal
         - No_Goal
-      - test_set
       - training
         - Goal
         - No_Goal
-      - val_set
       - validation
         - Goal
         - No_Goal
    
    You should get something like this:
-   
-   ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/53a872a4-b588-4e51-80fe-ec9d203e88d0)
    
    ![image](https://github.com/alessiapontiggia/VISIOPE-project/assets/102748217/d831f1d5-4c72-4f8a-814d-f6e1790fe166)
 
